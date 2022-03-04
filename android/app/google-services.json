@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "995387686083",
+    "project_id": "bdbateponto",
+    "storage_bucket": "bdbateponto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995387686083:android:e78c470552f3d63e0c7676",
+        "android_client_info": {
+          "package_name": "com.example.bate_ponto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995387686083-kdt3l4b0gusgsnkc1qanc9msvcufbsse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoDkDJog8RLogiryH6K7DhRr0O5I8NJAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995387686083-kdt3l4b0gusgsnkc1qanc9msvcufbsse.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
